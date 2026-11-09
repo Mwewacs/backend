@@ -1,0 +1,37 @@
+{
+  "name": "MapLibre GL JS",
+  "version": "6.17.0",
+  "license": "BSD-3-Clause",
+  "assets": [
+    {
+      "file": "maplibre-gl.mjs",
+      "url": "https://www.npmjs.com/package/maplibre-gl/v/6.17.0",
+      "sha256": "e02cb08c572fd0950a75343cd558099c2a1dbbaf67f26b0c96f115431962d1ae",
+      "bytes": 1110272
+    },
+    {
+      "file": "maplibre-gl-shared.mjs",
+      "url": "https://www.npmjs.com/package/maplibre-gl/v/6.17.0",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "maplibre-gl-worker.mjs",
+      "url": "https://www.npmjs.com/package/maplibre-gl/v/6.17.0",
+      "sha256": "73d7a024a4efe1a46e49db193e18cfe33271e3ecc652ec7542c281a4ef5f0f04",
+      "bytes": 520114
+    },
+    {
+      "file": "maplibre-gl.css",
+      "url": "https://www.npmjs.com/package/maplibre-gl/v/6.17.0",
+      "sha256": "a90798a1953017790e590f7e1bd35ff103a8a4263972cb47290b78adf86f8c20",
+      "bytes": 71596
+    },
+    {
+      "file": "LICENSE.txt",
+      "url": "https://www.npmjs.com/package/maplibre-gl/v/6.17.0",
+      "sha256": "ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2",
+      "bytes": 5984
+    }
+  ]
+}
